@@ -1,3 +1,4 @@
 sphinx_rtd_theme
 sphinxcontrib-napoleon
 sphinx-autodoc-typehints
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
